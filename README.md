@@ -21,7 +21,7 @@ Both visualizations are implemented in Collab ipynb notebooks. In the notebooks 
 ## Team
 
 Developed by:
-
+| --- | --- |
 | [Patri Cabot](https://github.com/patricia-cabot) | [Marc Vernet](https://github.com/marcvernet31) |
 
 Students at [UPC](https://www.upc.edu/ca).
